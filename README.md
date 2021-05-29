@@ -1,3 +1,5 @@
+#  很久没更新了，最近会更新的，别问了
+
 #  CSGO辅助 Osiris冥王 汉化版
 CS:GO Hack - Osiris Chinese version
 
